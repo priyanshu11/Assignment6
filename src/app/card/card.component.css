@@ -1,0 +1,11 @@
+.card{
+    height: 42rem;
+    float: left;
+    margin:20px 20px 20px 20px;
+    position: relative;
+
+}
+.card-image-top{
+height:80px ;
+width: 30px;
+}
